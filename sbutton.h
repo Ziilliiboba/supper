@@ -9,6 +9,7 @@ class SButton : public QLabel
 public:
     SButton(QWidget* pwgt = 0);
     virtual ~SButton() {};
+    //test message to commit
 
 };
 
